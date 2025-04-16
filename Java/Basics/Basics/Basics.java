@@ -1,6 +1,12 @@
 package Basics;
 class Basics {
   public static void main(String[] args) {
+
+
+
+
+
+    
     // int a = 1220;
     // int b = 20;
     // int result = a + b;
@@ -36,14 +42,14 @@ class Basics {
 //    result = num1 < num2 ? true : false;
 //    System.out.println(result);
 
-//
-//   int nums[] = new int[5];
-//
-//   for(int i=0; i<5; ++i)
-//     nums[i] = (int) (Math.random() * 100);
-//
-//   for(int n : nums)
-//     System.out.println(n);
+
+  int nums[] = new int[5];
+
+  for(int i=0; i<5; ++i)
+    nums[i] = (int) (Math.random() * 100);
+
+  for(int n : nums)
+    System.out.println(n);
 
 
 

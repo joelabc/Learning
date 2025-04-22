@@ -2,7 +2,7 @@ package Java.Course;
 
 import java.util.Scanner;
 
-public class patterns {
+public class Patterns {
     public static void main(String[] args) {
         String c = "*";
         Scanner userInput = new Scanner(System.in);

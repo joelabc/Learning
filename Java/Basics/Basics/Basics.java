@@ -8,17 +8,16 @@ class Basics {
 
     
     // int a = 1220;
-    // int b = 20;
-    // int result = a + b;
-    // System.out.println(result);
-
+    
     // byte by = 127;
     // short sh = 500;
     // float fl = 5.8f;
     // double d = 5.6;
     // boolean bool = true;
     // long l = 100l;
+    // int b = 20;
 
+    
     // // literals
 //    int num1 = 110;
 //    int num2 = 11;

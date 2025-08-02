@@ -25,7 +25,7 @@ public class Collections {
         }
 
         Map<String, Integer> mark = new HashMap<>();
-        mark.put("Joel", 92);
+         mark.put("Joel", 92);
         mark.put("Josh", 100);
 
         for (Map.Entry<String, Integer> entry : mark.entrySet()) {
